@@ -9,8 +9,8 @@ Aplikasi Android yang menampilkan daftar 10 atlet dengan penghasilan tertinggi d
 
 ## 🚀 Fitur Utama
 
-* **[BARU] Halaman Beranda (Home Page):** Layar pembuka (*entry point*) yang ramah pengguna sebelum masuk ke dalam katalog utama.
-* **[BARU] Navigasi Kustom yang Mulus:** Dilengkapi tombol kembali (*back arrow*) kustom di setiap header (Katalog dan Detail) yang mempertahankan *state* aplikasi (hasil pencarian tidak reset saat kembali dari halaman detail).
+* **[BARU] Halaman Beranda (Home Page):** Layar pembuka (*entry point*) sebelum masuk ke dalam katalog utama.
+* **[BARU] Navigasi Kustom:** Dilengkapi tombol kembali (*back arrow*) kustom di setiap header (Katalog dan Detail) yang mempertahankan *state* aplikasi (hasil pencarian tidak reset saat kembali dari halaman detail).
 * **Daftar Atlet Teratas:** Menampilkan 10 atlet dengan penghasilan tertinggi dalam format list yang modern dan responsif.
 * **Fitur Pencarian (Search):** Mencari atlet secara *real-time* berdasarkan nama.
 * **Halaman Detail:** Informasi mendalam tentang setiap atlet, termasuk cabang olahraga, deskripsi karier, dan total penghasilan.
