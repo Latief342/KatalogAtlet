@@ -52,6 +52,8 @@ app
 │   └── item_athlete.xml       # Layout baris untuk adapter RecyclerView
 └── res/drawable               # Asset gambar atlet & UI Icons (ic_arrow_back, dll)
 ```
+---
+
 ## 🏠︎ Home Page
 
 Berikut merupakan tampilan halaman utama aplikasi.
