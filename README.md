@@ -51,3 +51,19 @@ app
 │   ├── activity_detail.xml    # Layout detail atlet dengan Top Bar Navigasi
 │   └── item_athlete.xml       # Layout baris untuk adapter RecyclerView
 └── res/drawable               # Asset gambar atlet & UI Icons (ic_arrow_back, dll)
+```
+## 📸 Tampilan Aplikasi
+
+Struktur project dan hasil tampilan aplikasi dapat dilihat pada gambar berikut.
+
+<img width="356" height="787" alt="Screenshot 2026-04-17 172344" src="https://github.com/user-attachments/assets/23a4a32c-ee84-45df-b846-9305fcbcaec5" />
+
+---
+
+## 📄 Halaman Detail Atlet
+
+Berikut tampilan halaman detail atlet saat salah satu data dipilih.
+
+<img width="352" height="545" alt="Screenshot 2026-04-17 172358" src="https://github.com/user-attachments/assets/f27acf76-b624-429a-b2e6-207530e5aa47" />
+
+---
