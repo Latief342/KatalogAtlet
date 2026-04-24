@@ -79,11 +79,7 @@ Berikut tampilan halaman detail atlet saat salah satu data dipilih.
 
 ---
 
-## 👨‍💻 Anggota Kelompok
 
-1. Abdul Latief (L0324001)
-2. Anton Sulaiman (L0324004)
-3. Muhammad Hafizh Fadhilah (L0324021)
       
 ---
 
