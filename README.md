@@ -89,3 +89,4 @@ Berikut tampilan halaman detail atlet saat salah satu data dipilih.
 
 ## ▶️ Link Youtube
 
+https://youtube.com/shorts/498A-rmcNNY?feature=share
