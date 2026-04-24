@@ -58,6 +58,7 @@ Berikut merupakan tampilan halaman utama aplikasi.
 
 <img width="349" height="785" alt="Screenshot 2026-04-24 180243" src="https://github.com/user-attachments/assets/8cef8482-00bd-4b19-b9c6-008da577ca00" />
 
+---
 
 ## 📸 Tampilan Aplikasi
 
